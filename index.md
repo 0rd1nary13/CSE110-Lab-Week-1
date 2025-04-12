@@ -1,93 +1,102 @@
-# James Forest's User Page
+# Huiguang Ma
 
 ## About Me
-Hello! I'm James, a Computer Science student with a passion for software development and problem-solving.
+I am a Computer Science student at UC San Diego with a strong foundation in software engineering and a passion for building scalable, efficient systems. My journey in computer science began at De Anza College, where I developed a solid understanding of programming fundamentals and data structures.
 
-![Profile Picture](https://avatars.githubusercontent.com/u/placeholder-image.jpg)
+## Education
+### University of California, San Diego
+**Computer Science, B.S.** (2024 - Present)
+- Expected Graduation: June 2026
+- Relevant Courses:
+  - Theory of Computation
+  - Design & Algorithm Analysis
+  - Advanced Data Structures
+  - Components and Design Techniques for Digital Systems
+  - Introduction to Artificial Intelligence: Probabilistic Reasoning and Decision-Making
 
-## Screenshots from My Project
-Here are some screenshots from my project (shown as images):
+### De Anza College
+**Computer Science for Transfer** (2021 - 2024)
+- Relevant Courses:
+  - Data Abstraction and Structures
+  - Java Programming
+  - Intermediate Programming Methodologies in C++
+  - Object-Oriented Analysis and Design
+  - Python Programming
 
-![Screenshot 1](screenshot/截屏2025-04-01%20下午6.15.17.png)
-![Screenshot 2](screenshot/截屏2025-04-02%20下午1.09.11.png)
+## Professional Experience
+### Software Development Intern at Soaper
+**December 2024 - Present**
+- Developing cross-platform applications using React Native and Python
+- Integrating Epic MyChart API for secure medical document access
+- Implementing RESTful API endpoints with JWT authentication
+- Managing containerized services with Docker and CI/CD pipelines
+- Evaluating and optimizing large language model integrations
 
-## Markdown Demonstration
+### Teaching Assistant - Python Programming
+**April 2024 - July 2024**
+- Managed course logistics and Canvas platform
+- Facilitated live lectures and student discussions
+- Mentored students in debugging and code optimization
+- Conducted code reviews and introduced best practices
 
-### Links to Screenshots (as regular links)
-- [Screenshot 1](screenshot/截屏2025-04-01%20下午6.15.17.png)
-- [Screenshot 2](screenshot/截屏2025-04-02%20下午1.08.25.png)
-- [Screenshot 3](screenshot/截屏2025-04-02%20下午12.59.11.png)
-- [Screenshot 4](screenshot/截屏2025-04-02%20下午1.10.39.png)
-- [Screenshot 5](screenshot/截屏2025-04-02%20下午1.00.07.png)
-- [Screenshot 6](screenshot/截屏2025-04-02%20下午1.00.59.png)
-- [Screenshot 7](screenshot/截屏2025-04-02%20下午1.01.24.png)
-
-## My Programming Journey
-I started programming when I was in high school and have been fascinated by it ever since. 
-
-## Skills
+## Technical Skills
 ### Programming Languages
-Here are some languages I'm proficient in (demonstration of **unordered list**):
-- **Java** (demonstration of **bold text**)
-- **Python**
-- **JavaScript**
-- *C++* (demonstration of *italic text*)
-- *HTML/CSS*
+- **Python** (Proficient)
+- **Java** (Proficient)
+- **C/C++** (Proficient)
+- **x86 Assembly Language** (Familiar)
 
-### Tools & Frameworks
-This is an **ordered list** of tools I use:
-1. Git & GitHub
-2. React
-3. Node.js
-4. Docker
-5. MongoDB
+### Frameworks & Tools
+- React
+- Node.js
+- Docker
+- PostgreSQL
+- FastAPI
+- Git
+- Linux
+- Postman
 
-## Favorite Quote
-> The best way to predict the future is to invent it.
-> 
-> -- Alan Kay
+### Specialized Knowledge
+- Data Structures & Algorithms
+- Software Testing
+- Shell Design
+- Bayesian Networks
+- Probabilistic Inference
+- Decision-making under uncertainty
 
-This demonstrates **quoting text** using the blockquote syntax.
+## Projects
+### Social Networking Platform
+- Architected a scalable social networking platform in Java
+- Implemented optimized CRUD operations with graph-based data structures
+- Integrated concurrency primitives for real-time responsiveness
+- [View on GitHub](https://github.com/0rd1nary13/Social-Networking)
 
-## Code Sample
-Here's a simple "Hello World" in JavaScript (demonstration of **quoting code**):
-```javascript
-console.log("Hello, World!");
-```
+### Chat Server Implementation
+- Engineered a high-throughput chat server in C using POSIX sockets
+- Implemented HTTP-compliant RESTful endpoints
+- Optimized I/O throughput and memory management
+- [View on GitHub](https://github.com/ucsd-cse29-fa24/pa3-chat-server-0rd1nary13)
 
-And a function in Python:
-```python
-def greet(name):
-    return f"Hello, {name}!"
-```
+### Pioneer Shell (pish)
+- Developed a POSIX-compliant Unix shell in C
+- Implemented system calls and signal handling
+- Created built-in commands and robust command parser
+- [View on GitHub](https://github.com/ucsd-cse29-fa24/pa5-pish-0rd1nary13)
 
-## External Links
-These are **external links** to other websites:
-- [My GitHub Profile](https://github.com/jamesforest)
-- [UC San Diego](https://ucsd.edu)
-- [Learn more about Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## Languages
+- **Chinese** (Native)
+- **English** (Professional)
 
-## Table of Contents
-This demonstrates **section links** to headers in the same file:
-- [James Forest's User Page](#james-forests-user-page)
-  - [About Me](#about-me)
-  - [Screenshots from My Project](#screenshots-from-my-project)
-  - [Markdown Demonstration](#markdown-demonstration)
-    - [Links to Screenshots (as regular links)](#links-to-screenshots-as-regular-links)
-  - [My Programming Journey](#my-programming-journey)
-  - [Skills](#skills)
-    - [Programming Languages](#programming-languages)
-    - [Tools \& Frameworks](#tools--frameworks)
-  - [Favorite Quote](#favorite-quote)
-  - [Code Sample](#code-sample)
-  - [External Links](#external-links)
-  - [Table of Contents](#table-of-contents)
-  - [Future Goals](#future-goals)
+## Contact Information
+- **Location:** CA, USA
+- **Phone:** +1 4156236556
+- **Email:** jforest@ucsd.edu
+- **LinkedIn:** [in/huiguang-m-316b0819a](https://www.linkedin.com/in/huiguang-m-316b0819a)
+- **GitHub:** [github.com/0rd1nary13](https://github.com/0rd1nary13)
 
 ## Future Goals
-This is a **task list**:
-- [x] Learn Git basics
-- [x] Create a user page with Markdown
-- [ ] Build a personal website
+- [x] Complete Computer Science degree
+- [x] Gain industry experience through internships
 - [ ] Contribute to open-source projects
-- [ ] Land a great internship
+- [ ] Develop expertise in AI and machine learning
+- [ ] Build innovative solutions for healthcare technology
