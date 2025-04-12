@@ -1,7 +1,9 @@
 # Huiguang Ma
 
 ## About Me
-I am a Computer Science student at UC San Diego with a strong foundation in software engineering and a passion for building scalable, efficient systems. My journey in computer science began at De Anza College, where I developed a solid understanding of programming fundamentals and data structures.
+I am a Computer Science student at UC San Diego with a strong foundation in software engineering and a passion for building scalable, efficient systems.
+
+![Profile Picture](screenshot/截屏2025-04-02%20下午1.01.24.png)
 
 ## Education
 ### University of California, San Diego
@@ -13,15 +15,6 @@ I am a Computer Science student at UC San Diego with a strong foundation in soft
   - Advanced Data Structures
   - Components and Design Techniques for Digital Systems
   - Introduction to Artificial Intelligence: Probabilistic Reasoning and Decision-Making
-
-### De Anza College
-**Computer Science for Transfer** (2021 - 2024)
-- Relevant Courses:
-  - Data Abstraction and Structures
-  - Java Programming
-  - Intermediate Programming Methodologies in C++
-  - Object-Oriented Analysis and Design
-  - Python Programming
 
 ## Professional Experience
 ### Software Development Intern at Soaper
@@ -47,14 +40,14 @@ I am a Computer Science student at UC San Diego with a strong foundation in soft
 - **x86 Assembly Language** (Familiar)
 
 ### Frameworks & Tools
-- React
-- Node.js
-- Docker
-- PostgreSQL
-- FastAPI
-- Git
-- Linux
-- Postman
+1. React
+2. Node.js
+3. Docker
+4. PostgreSQL
+5. FastAPI
+6. Git
+7. Linux
+8. Postman
 
 ### Specialized Knowledge
 - Data Structures & Algorithms
@@ -66,6 +59,20 @@ I am a Computer Science student at UC San Diego with a strong foundation in soft
 
 ## Projects
 ### Social Networking Platform
+> "The best way to predict the future is to invent it." - Alan Kay
+
+This project demonstrates my ability to build scalable systems:
+```java
+public class SocialNetwork {
+    private Graph<User> userGraph;
+    private Map<String, User> userMap;
+    
+    public void addConnection(User user1, User user2) {
+        userGraph.addEdge(user1, user2);
+    }
+}
+```
+
 - Architected a scalable social networking platform in Java
 - Implemented optimized CRUD operations with graph-based data structures
 - Integrated concurrency primitives for real-time responsiveness
@@ -78,6 +85,16 @@ I am a Computer Science student at UC San Diego with a strong foundation in soft
 - [View on GitHub](https://github.com/ucsd-cse29-fa24/pa3-chat-server-0rd1nary13)
 
 ### Pioneer Shell (pish)
+```c
+int main() {
+    char* command;
+    while ((command = read_command()) != NULL) {
+        execute_command(command);
+    }
+    return 0;
+}
+```
+
 - Developed a POSIX-compliant Unix shell in C
 - Implemented system calls and signal handling
 - Created built-in commands and robust command parser
@@ -94,9 +111,25 @@ I am a Computer Science student at UC San Diego with a strong foundation in soft
 - **LinkedIn:** [in/huiguang-m-316b0819a](https://www.linkedin.com/in/huiguang-m-316b0819a)
 - **GitHub:** [github.com/0rd1nary13](https://github.com/0rd1nary13)
 
+## Table of Contents
+- [About Me](#about-me)
+- [Education](#education)
+- [Professional Experience](#professional-experience)
+- [Technical Skills](#technical-skills)
+- [Projects](#projects)
+- [Languages](#languages)
+- [Contact Information](#contact-information)
+
 ## Future Goals
 - [x] Complete Computer Science degree
 - [x] Gain industry experience through internships
 - [ ] Contribute to open-source projects
 - [ ] Develop expertise in AI and machine learning
 - [ ] Build innovative solutions for healthcare technology
+
+## Screenshots
+Here are some screenshots from my projects:
+- [Screenshot 1](screenshot/截屏2025-04-02%20下午1.08.25.png)
+- [Screenshot 2](screenshot/截屏2025-04-02%20下午12.59.11.png)
+- [Screenshot 3](screenshot/截屏2025-04-02%20下午1.10.39.png)
+- [Screenshot 4](screenshot/截屏2025-04-02%20下午1.01.24.png)
