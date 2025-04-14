@@ -1,6 +1,6 @@
 # Huiguang Ma
 
-## About Me
+## Fun Fact About Me
 I don't like salty popcorn.
 
 ![Profile Picture](head.jpeg)
@@ -112,7 +112,7 @@ int main() {
 - **GitHub:** [github.com/0rd1nary13](https://github.com/0rd1nary13)
 
 ## Table of Contents
-- [About Me](#about-me)
+- [Fun Fact About Me](#fun-fact-about-me)
 - [Education](#education)
 - [Professional Experience](#professional-experience)
 - [Technical Skills](#technical-skills)
