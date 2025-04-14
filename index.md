@@ -3,7 +3,7 @@
 ## Fun Fact About Me
 I don't like salty popcorn.
 
-![Profile Picture](head.jpeg)
+<img src="head.jpeg" alt="Profile Picture" width="200"/>
 
 ## Education
 ### University of California, San Diego
