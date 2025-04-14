@@ -1,9 +1,9 @@
 # Huiguang Ma
 
 ## About Me
-I am a Computer Science student at UC San Diego with a strong foundation in software engineering and a passion for building scalable, efficient systems.
+I don't like salty popcorn.
 
-![Profile Picture](screenshot/截屏2025-04-02%20下午1.01.24.png)
+![Profile Picture](head.jpeg)
 
 ## Education
 ### University of California, San Diego
